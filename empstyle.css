@@ -1,0 +1,20 @@
+employeeDetails
+{
+    background-color:pink;
+}
+    firstname,lastname,email
+    {
+        font-size:25px;
+        display:block;
+        color:blue;
+        margin-left:50px;
+        background-color:red;
+    }
+    employee{
+        display:block;
+        background-color:yellow;
+        margin-left:0px;
+        margin-bottom:50px;
+    
+    }
+  

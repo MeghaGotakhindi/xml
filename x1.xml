@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<book>
+<name>A Song of Ice and Fire</name>
+<author>George R.R Martin</author>
+<language>English</language>
+<genre>Epic Fantosy</genre>
+</book>
+<book>
+<name>The Girl in Room 105</name>
+<author>Chethan Bhagat</author>
+<language>English</language>
+<genre>Detective</genre>
+</book>
+<book>
+<name>Neenu Hattiraviralu</name>
+<author>Geeta Nagbhooshan</author>
+<language>Kannada</language>
+<genre>Romantic</genre>
+</book>
+</bookstore>
